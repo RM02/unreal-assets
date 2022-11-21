@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/concept-art", {data:[{}],fetch:{},mutations:void 0});

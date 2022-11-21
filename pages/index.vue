@@ -1,6 +1,7 @@
 <template>
   <div class="logo-container">
-    <img class="img" src="/img1.png" alt="" width="853" sizes="(max-width: 991px) 100vw, 852.9977416992188px">
+    <img src="https://uploads-ssl.webflow.com/6262efd7043c83bbf5b66ecd/6262f33366b1808794a578bd_unrealboar.png" loading="lazy" width="853" srcset="https://uploads-ssl.webflow.com/6262efd7043c83bbf5b66ecd/6262f33366b1808794a578bd_unrealboar-p-500.png 500w, https://uploads-ssl.webflow.com/6262efd7043c83bbf5b66ecd/6262f33366b1808794a578bd_unrealboar-p-800.png 800w, https://uploads-ssl.webflow.com/6262efd7043c83bbf5b66ecd/6262f33366b1808794a578bd_unrealboar-p-1080.png 1080w, https://uploads-ssl.webflow.com/6262efd7043c83bbf5b66ecd/6262f33366b1808794a578bd_unrealboar-p-1600.png 1600w, https://uploads-ssl.webflow.com/6262efd7043c83bbf5b66ecd/6262f33366b1808794a578bd_unrealboar-p-2000.png 2000w, https://uploads-ssl.webflow.com/6262efd7043c83bbf5b66ecd/6262f33366b1808794a578bd_unrealboar.png 2400w" sizes="(max-width: 991px) 100vw, 852.9977416992188px" alt="" class="image">
+
     <h1 class="heading">UNREAL ASSETS</h1>
     <div class="text-block-4">Premium game-ready assets - Simplified</div>
   </div>

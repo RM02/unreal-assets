@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/quick-rig", {data:[{}],fetch:{},mutations:void 0});
