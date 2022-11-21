@@ -35,7 +35,7 @@
           <v-list-item-title><a href="/process">PROCESS</a></v-list-item-title>
         </v-list-item>
         <v-list-item>
-          <v-list-item-title><a href="https://sketchfab.com/metacaptain">CONTACT</a></v-list-item-title>
+          <v-list-item-title><a href="https://sketchfab.com/metacaptain">PORTFOLIO</a></v-list-item-title>
         </v-list-item>
         <v-list-item>
           <v-list-item-title><a href="https://docs.google.com/forms/d/e/1FAIpQLSfvsytuj-h7otj1WdwHvqdJoBjSV2_XfMtQOHTfCTfdBKHgBQ/viewform">CONTACT</a></v-list-item-title>
